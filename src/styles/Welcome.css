@@ -1,0 +1,14 @@
+body{
+	
+}
+
+h1{
+	color:white;
+	text-align:center;
+    text-shadow:1px 1px 1px black;
+	font-size:50px;
+}
+.info{
+	margin-left: -35%;
+	font-size: 5vh;
+}

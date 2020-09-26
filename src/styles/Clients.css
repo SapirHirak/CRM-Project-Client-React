@@ -1,0 +1,22 @@
+
+body {
+    background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
+    
+  }
+
+.table {
+   width: 95% ;
+   margin-left: 1vw;
+
+}
+
+#select-input{
+    display: inline;
+}
+
+#awsomeNot{
+    display: contents;
+    font-size: 1em;
+    color: black;
+    
+}

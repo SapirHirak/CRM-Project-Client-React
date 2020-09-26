@@ -1,0 +1,69 @@
+
+body {
+    background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
+    
+  }
+
+.areaChart{
+    margin-top: 20vh;
+}
+
+#awsomeProgress {
+    border-radius: 50%;
+   height: 100px;
+   width: 100px;
+    background-color: brown ;
+    color: bisque;
+    font-size: 5em;
+    align-items: center;
+}
+
+#awsomeClient {
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+     background-color: brown ;
+     color: bisque;
+     font-size: 5em;
+     align-items: center;
+}
+ 
+#awsomeMail {
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+     background-color: brown ;
+     color: bisque;
+     font-size: 5em;
+     align-items: center;
+}
+
+#awsomeEarth {
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+     background-color: brown ;
+     color: bisque;
+     font-size: 5em;
+     align-items: center;
+}
+.i{
+    /* border-radius: 50%;
+   height: 100px;
+   width: 100px;
+    background-color: brown ;
+    color: bisque;
+    font-size: 5em;
+  
+     text-align: center; 
+    align-items: center;
+     */
+}
+.i{
+    margin-top: 0.0000001vh
+}
+
+.input {
+    /* display: flex; */
+    width: 20vw;
+}

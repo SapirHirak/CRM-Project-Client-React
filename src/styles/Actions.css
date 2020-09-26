@@ -1,0 +1,22 @@
+.title {
+    display: flex;
+    color: brown;
+}
+
+.input {
+    /* display: flex; */
+    width: 20vw;
+}
+
+.button {
+    margin-left: 30vw;
+}
+
+.Actions {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 8.3%;
+    left: 0;
+    background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
+}
